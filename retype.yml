@@ -1,0 +1,24 @@
+input: ./
+output: .retype
+url: transactracer.com
+
+branding:
+  title: Transactracer
+  label: Docs
+
+meta:
+  title: " - Generate, publish, and share documentation"
+
+links:
+  - text: Getting Started
+    link: /README.md
+    icon: home
+
+footer:
+  copyright: © Copyright {{ year }} – [Transactracer](https://transactracer.com/) – All rights reserved
+
+integrations:
+  crisp:
+    id: 9ec0e13c-1299-4c3f-a5e9-ff39363c6960
+  plausible:
+    domain: transactracer.com
