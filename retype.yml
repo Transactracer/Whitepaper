@@ -10,15 +10,25 @@ meta:
   title: " - Generate, publish, and share documentation"
 
 links:
-  - text: Getting Started
-    link: /README.md
-    icon: home
+  - text: Website
+    link: https://www.transactracer.com/
+    target: blank
+
+  - text: Twitter # Icon from https://iconmonstr.com
+    link: https://twitter.com/transactracer
+    target: blank
+
+  - text: Youtube # Icon from https://iconmonstr.com
+    link: https://www.youtube.com/@Transactracer
+    target: blank
+
+  - text: Telegram # Icon from https://iconmonstr.com
+    link: https://t.me/+Dfx6rzH9F3E4OTQ1
+    target: blank
 
 footer:
   copyright: © Copyright {{ year }} – [Transactracer](https://transactracer.com/) – All rights reserved
 
 integrations:
-  crisp:
-    id: 9ec0e13c-1299-4c3f-a5e9-ff39363c6960
   plausible:
     domain: transactracer.com
